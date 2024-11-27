@@ -85,13 +85,13 @@ body {
 /* Anchor tag styles */
 a {
     color: lightcoral; /* Light red when not clicked */
-    text-decoration: none; /* Remove underline */
+    text-decoration: underline; /* Remove underline */
     transition: color 0.3s ease; /* Smooth color transition */
 }
 
 /* Hover effect for anchor tags */
 a:hover {
-    color: red; /* Dark red on hover */
+    color: lightcoral; /* Dark red on hover */
 }
 
 /* When the link is active (clicked) */
