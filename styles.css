@@ -21,8 +21,8 @@ body {
 
 /* Profile picture */
 .profile-picture {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     background-color: #555;
     border-radius: 50%;
     margin: 0 auto;
@@ -43,8 +43,7 @@ body {
 .name-bio h2 {
     margin: 0;
     font-size: 1.4em;
-    color: #ffffff;
-}
+    color: #ff0000 ;}
 
 .name-bio p {
     margin-top: 8px;
@@ -68,7 +67,7 @@ body {
 
 /* Icon hover effect */
 .social-link:hover i {
-    color: #fff; /* Turn white on hover */
+    color: #ff0; /* Turn white on hover */
 }
 
 /* Discord presence */
