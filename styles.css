@@ -48,7 +48,7 @@ body {
 .name-bio p {
     margin-top: 8px;
     font-size: 1em;
-    color: #aaa;
+    color: #ff0;
 }
 
 /* Social media icons */
@@ -61,7 +61,7 @@ body {
 /* Smaller social icons */
 .social-link i {
     font-size: 20px; /* Icons are now 40px by 40px */
-    color: #777; /* Default gray color */
+    color: #ff0; /* Default gray color */
     transition: color 0.3s ease; /* Smooth color transition */
 }
 
