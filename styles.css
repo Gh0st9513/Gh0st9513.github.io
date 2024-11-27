@@ -85,21 +85,21 @@ body {
 /* Anchor tag styles */
 a {
     color: lightcoral; /* Light red when not clicked */
-    text-decoration: underline; /* Remove underline */
+    text-decoration: none; /* Remove underline */
     transition: color 0.3s ease; /* Smooth color transition */
 }
 
 /* Hover effect for anchor tags */
 a:hover {
-    color: lightcoral; /* Dark red on hover */
+    color: #f08080; /* Slightly darker light red on hover */
 }
 
 /* When the link is active (clicked) */
 a:active {
-    color: red; /* Red when clicked */
+    color: red; /* Normal red when clicked */
 }
 
 /* Visited links */
 a:visited {
-    color: red; /* Red for visited links */
+    color: #e57373; /* Darker than light red, but lighter than normal red */
 }
